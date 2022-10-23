@@ -26,7 +26,7 @@ public class Main {
 
     }
 
-    public static Double inputInt() throws IOException {
+    public static double inputInt() throws IOException {
         double data;
         while (true) {
             try {
